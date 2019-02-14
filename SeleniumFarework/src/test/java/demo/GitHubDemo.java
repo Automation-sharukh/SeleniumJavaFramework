@@ -1,5 +1,6 @@
 package demo;
 
-public class GitHubDemo {
+public class GitHubDemo
+{
 
 }
